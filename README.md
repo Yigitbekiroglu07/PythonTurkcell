@@ -88,12 +88,3 @@ This repository includes a well-structured OOP section.
 | ---------------- | --------------------------- |
 | `subset.py`      | String slicing basics       |
 | Other misc files | Small examples for practice |
-
-🚀 How to Use
-1. Clone the repository:
-git clone https://github.com/.../PythonTurkcell-main.git
-2. Run any Python file to explore the topic:
-python dictionary2.py
-python oop4.py
-python clusters3.py
-3. Modify the code to practice and improve your understanding.
